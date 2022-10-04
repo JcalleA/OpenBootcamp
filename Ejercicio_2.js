@@ -10,4 +10,4 @@ const myDates = {
         url:"https://www.unpa.edu.mx/~blopez/algunosLibros/Padre-Rico-Padre-Pobre.pdf"
     }
 }
-console.log(myDates.libroFavorito.fecha)
+console.log(myDates.libroFavorito.fecha);
