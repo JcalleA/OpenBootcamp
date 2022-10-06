@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class APP {
+
     public static void main(String[] args) throws Exception {
         List lista1 = new ArrayList();
         lista1.add(true);
